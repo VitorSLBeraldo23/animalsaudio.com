@@ -1,0 +1,10 @@
+body{
+    padding: 0;
+    box-sizing: border-box;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+#header_div{
+    background-color: gray;
+    color: white;
+}
